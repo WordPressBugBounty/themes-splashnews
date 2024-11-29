@@ -2,8 +2,8 @@ Hello there,
 === SplashNews ===
 Contributors: AF themes
 Requires at least: 4.0
-Tested up to: 6.6
-Stable tag: 1.0.5
+Tested up to: 6.7
+Stable tag: 1.0.6
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: news, blog, entertainment, one-column, two-columns, grid-layout, block-styles, left-sidebar, right-sidebar, custom-header, flexible-header, custom-background, custom-colors, custom-menu, featured-images, full-width-template, post-formats, sticky-post, rtl-language-support, footer-widgets, translation-ready, theme-options, threaded-comments
@@ -18,7 +18,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 SplashNews is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
 Underscores is distributed under the terms of the GNU GPL v2 or later.
 
-SplashNews WordPress Theme, Copyright 2021 AF themes
+SplashNews WordPress Theme, Copyright 2024 AF themes
 SplashNews is distributed under the terms of the GNU GPL v2 or later.
 
 == Description ==
